@@ -1,0 +1,102 @@
+﻿<Window x:Class="WpfTemplateApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WpfTemplateApp"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Loaded="Register_Page"
+        Height="780"
+        Width="1420">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <md:ColorZone
+              Background="#4A4844"
+              Mode="Inverted"
+              Padding="16">
+                <DockPanel>
+                    <md:PopupBox
+                        DockPanel.Dock="Right"
+                        PlacementMode="BottomAndAlignRightEdges">
+                        <ListBox>
+                            <ListBoxItem>
+                                <Button 
+                                    Content="Add Student"
+                                    Click="Add_Studnt_Click"/>
+                            </ListBoxItem>
+                            <ListBoxItem>
+                                <Button Content="Add Teacher"
+                                        Click="Add_Teacher_Click"/>
+                            </ListBoxItem>
+                            <ListBoxItem>
+                                <Button Content="Add Course"
+                                    Click="Add_Course_Click"/>
+                            </ListBoxItem>
+                        </ListBox>
+                    </md:PopupBox>
+                    <StackPanel
+                        Orientation="Horizontal">
+                        <Button 
+                            Click="ToggleButton_Checked"
+                            Background="#4A4844"
+                            Height="40"
+                            BorderBrush="#4A4844">
+                            <ToggleButton
+                                Style="{StaticResource MaterialDesignHamburgerToggleButton}"/>
+                        </Button>
+                        <TextBlock
+                            VerticalAlignment="Center"
+                            Margin="16 0 0 0"
+                            FontSize="30"
+                            Name="MainTitle" />
+                    </StackPanel>
+                </DockPanel>
+            </md:ColorZone>
+        </Grid>
+        <Grid Grid.Row="1" Background="#1E1E1E">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:Name="LeftPanel" Width="87"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+               <StackPanel>
+                    <Button  
+                        Click="SelectStudents_Click"
+                        Height="40" 
+                        FontSize="23"
+                        Margin="10 5 10 5" 
+                        Content="🧑‍⚕️ Students">
+                    </Button>
+                    <Button  
+                        Click="SelectTeachers_Click"
+                        Margin="10 5 10 5" 
+                        Height="40" 
+                        FontSize="23"
+                        Content="🧑‍⚕️  Teachers">
+                    </Button>
+                    <Button 
+                        Click="SelectCourses_Click"
+                        Margin="10 5 10 5" 
+                        Height="40" 
+                        FontSize="23"
+                        Content="📥  Courses">
+                    </Button>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="1" Background="#4D4D4D">
+                    <Frame
+                    x:Name="MainFrame"
+                    NavigationUIVisibility="Hidden"/>
+                </Grid>
+            </Grid>
+        </Grid>
+
+    
+</Window>

@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp\\WpfTemplateApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj",
+        "projectName": "WpfTemplateApp.Data",
+        "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj",
+        "packagesPath": "C:\\Users\\i7TechStore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i7TechStore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj",
+        "projectName": "WpfTemplateApp.Domain",
+        "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\i7TechStore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i7TechStore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\WpfTemplateApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\WpfTemplateApp.Service.csproj",
+        "projectName": "WpfTemplateApp.Service",
+        "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\WpfTemplateApp.Service.csproj",
+        "packagesPath": "C:\\Users\\i7TechStore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i7TechStore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj": {
+                "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj"
+              },
+              "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Domain\\WpfTemplateApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp\\WpfTemplateApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp\\WpfTemplateApp.csproj",
+        "projectName": "WpfTemplateApp",
+        "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp\\WpfTemplateApp.csproj",
+        "packagesPath": "C:\\Users\\i7TechStore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i7TechStore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj": {
+                "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Data\\WpfTemplateApp.Data.csproj"
+              },
+              "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\WpfTemplateApp.Service.csproj": {
+                "projectPath": "C:\\Users\\i7TechStore\\RiderProjects\\WpfTemplateApp\\WpfTemplateApp.Service\\WpfTemplateApp.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

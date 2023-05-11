@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Service.deps.json
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Service.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Service.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.AssemblyInfo.cs
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\refint\WpfTemplateApp.Service.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\ref\WpfTemplateApp.Service.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Data.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Domain.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Data.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\bin\Debug\net6.0\WpfTemplateApp.Domain.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Service\obj\Debug\net6.0\WpfTemplateApp.Service.csproj.CopyComplete

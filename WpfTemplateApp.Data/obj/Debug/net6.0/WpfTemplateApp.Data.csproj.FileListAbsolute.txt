@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Data.deps.json
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Data.runtimeconfig.json
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Data.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Data.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Domain.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\bin\Debug\net6.0\WpfTemplateApp.Domain.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.AssemblyInfo.cs
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.csproj.CopyComplete
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\refint\WpfTemplateApp.Data.dll
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.pdb
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\WpfTemplateApp.Data.genruntimeconfig.cache
+C:\Users\i7TechStore\RiderProjects\WpfTemplateApp\WpfTemplateApp.Data\obj\Debug\net6.0\ref\WpfTemplateApp.Data.dll

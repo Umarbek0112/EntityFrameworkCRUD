@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WpfTemplateApp.Service",
+    "\\WpfTemplateApp.Service\\DTOs",
+    "\\WpfTemplateApp.Service\\DTOs\\Configurations",
+    "\\WpfTemplateApp.Service\\DTOs\\Configurations\\StudentCourse",
+    "\\WpfTemplateApp.Service\\DTOs\\Courses"
+  ],
+  "SelectedNode": "\\WpfTemplateApp.Service\\DTOs\\Courses\\CourseForCreateDTO.cs",
+  "PreviewInSolutionExplorer": false
+}
